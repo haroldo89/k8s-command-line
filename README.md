@@ -7,7 +7,7 @@ From source:
 
 ```
 git clone $PROYECT
-cd k8-library
+cd k8s-command-line
 ```
 
 ## Examples
